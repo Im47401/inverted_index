@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/inverted_index.dir/src/main.cpp.o CMakeFiles/inverted_index.dir/src/inverted_index.cpp.o -o inverted_index 

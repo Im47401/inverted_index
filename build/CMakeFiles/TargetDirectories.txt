@@ -1,0 +1,3 @@
+/workspaces/inverted_index/build/CMakeFiles/inverted_index.dir
+/workspaces/inverted_index/build/CMakeFiles/edit_cache.dir
+/workspaces/inverted_index/build/CMakeFiles/rebuild_cache.dir
